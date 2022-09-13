@@ -1,0 +1,8 @@
+{
+    "name":"Chewy Aliens Mint token",
+    "symbol" : "CAMT",
+    "external_url": "https://chewyaliens.com/",
+    "description" : "These tokens are for Chewy Aliens discounts or free mints. Collaboration or Giveaway to specific collection holders. If you are not interested, you can burn tokens at any time.",
+    "image" : "https://raw.githubusercontent.com/CA914/chewyaliens/main/logo.gif",
+    "collection" : {"name": "Chewy Aliens Mint token"}
+}
