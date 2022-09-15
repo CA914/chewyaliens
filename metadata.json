@@ -1,7 +1,7 @@
 {
     "name":"Chewy Aliens Mint token",
     "symbol" : "CAMT",
-    "external_url": {"website": "https://chewyaliens.com/","twitter": "https://twitter.com/ChewyAliens"},
+    "external_url": "https://chewyaliens.com/",
     "description" : "These tokens can be used to mint Chewy Aliens at 0.06 SOL for early holders. Collaboration or Giveaway to specific collection holders. If you are not interested, you can burn tokens at any time.",
     "image" : "https://raw.githubusercontent.com/CA914/chewyaliens/main/logo.gif",
     "collection" : {"name": "Chewy Aliens Mint token"}
